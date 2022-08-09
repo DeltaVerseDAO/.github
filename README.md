@@ -1,6 +1,5 @@
 # .github
-DeltaVerse DAO
-DeltaV THRUST purchased deltaverse.dao deltavthrust.coin deltavthrust.wallet deltavthrust.nft
+DeltaVerse DAO (c) DeltaV THRUST purchased deltaverse.dao deltavthrust.coin deltavthrust.wallet deltavthrust.nft
 This IPFS NFT domains are a one time fee / hold forever. deltaverse.dao becomes immortal with a proper setup on IPFS and creates a DAO template that will stand the test of time. Ownership of these domains transistions DeltaV THRUST from web2 to web3. Pay once own forever.
 
 DeltaVerse DAO starmap to do
