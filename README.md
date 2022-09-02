@@ -1,8 +1,9 @@
 # .github
 DeltaVerse DAO (c) DeltaV THRUST purchased deltaverse.dao deltavthrust.coin deltavthrust.wallet deltavthrust.nft
-These IPFS unstoppable NFT domains are a one time fee / hold forever. deltaverse.dao becomes immortal with a proper setup on IPFS and creates a DAO template that will stand the test of time. Ownership of these domains transistions DeltaV THRUST from web2 to web3. Pay once own forever. DeltaV THRUST has become an immutable company. Further transitions to complete holder control and DAO management are ongoing.
 
-DeltaVerse DAO starmap to do
+  These IPFS unstoppable NFT domains are a one time fee / hold forever. deltaverse.dao becomes immortal with a proper setup on IPFS and creates a DAO template that will stand the test of time. Ownership of these domains transistions DeltaV THRUST from web2 to web3. Pay once own forever. DeltaV THRUST has become an immutable company. Further transitions to complete holder control and DAO management are ongoing.
+
+ #DeltaVerse DAO starmap to do
 
 1) create AIRDROP system / Batch Send Signature Based Claiming system for smartBNB holder rewards
 
