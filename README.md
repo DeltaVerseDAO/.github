@@ -16,6 +16,12 @@ issues include a) ensure that the voting mechanism cannot be gamed b) provide we
 
 a) default setting will be to pay out to the holders the entire sum of the 22% sales fee. It is believed that this will create a holder incentive.
 
+4) release next iteration of dAPP
+
+a) first release will be a landing page
+b) updates to release will include cross chain bridge
+c) updates to release will include onramp system from fiat to THRUST
+
 Currently the PULSAR wallet is locked in a 2/3 voting system for changes. This needs to be set to a permanent lock. Required is the provision for an active party to exit the DAO where a replacement team member would emerge. This project is codenamed "deadmanswitch". As a secondary utility DeadmanSwitch will prove useful in wills and estates contracts. PULSAR will never sell. Assets from PULSAR may be used to create more liquidity pairs in the future as the DeltaV THRUST project expands.
 
 Currently DeltaV THRUST has 3 liqudity pairs namely;
