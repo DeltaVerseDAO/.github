@@ -25,7 +25,7 @@ c) updates to release will include onramp system from fiat to THRUST
 
 Currently the PULSAR wallet is locked in a 2/3 voting system for changes. The PULSAR lock is your guarantee that the TEAM will never SELL from the THRUST team relections wallet. Required is the provision for an active party to exit the DAO where a replacement team member would emerge. This project is codenamed "deadmanswitch". As a secondary utility DeadmanSwitch will prove useful in both will and estate contracts. PULSAR will never sell. Assets from PULSAR may be used to create more liquidity pairs in the future as the DeltaV THRUST project expands. Assets from PULSAR may be included in staking pools for holder staking payout incentives. PULSAR has become the locked team wallet. Reflections from sales of DeltaV THRUST will be allocated to the holders and the team based on percentage of holdings. The TEAM DAO controls the reflections rewards granted to the PULSAR wallet to facilitate communty marketing and development. As the THRUST project expands the TEAM DAO will include a balanced vote to include holder input. Holding THRUST = POWER over the future direction of THRUST as an immutable company. Hold a minimum of 22000 THRUST to recieve all sales fees in smartBNB and feel the power of a truly decentralized future. DeltaV THRUST is a smartBNB reflections token on the Binance Smart Chain.
 
-Currently DeltaV THRUST has 3 liqudity pairs on the Binance Smart Chain namely;
+Currently DeltaV THRUST has four liqudity pairs on the Binance Smart Chain namely;
 
 THRUST/BNB
 THRUST/ONE 
