@@ -9,7 +9,7 @@ DeltaVerse DAO (c) DeltaV THRUST purchased deltaverse.dao deltavthrust.coin delt
 
 issues include a) signature based claiming b) bulk airdrop from one to many c) creation of wallet contract to hold sales fees prior to holder distribution
 
-2) create weighted voting system to allocate direction of the marketing and development funds accumulated by PULSAR
+2) create weighted voting system to allocate direction of the marketing and development funds accumulated by <a href="https://bscscan.com/token/0x969F60Bfe17962E0f061B434596545C7b6Cd6Fc4?a=0x34007ca21e12d1d31eaea468f8f1639e6465508b">PULSAR</a>
 
 issues include a) ensure that the voting mechanism cannot be gamed b) provide weighted power based on allocation of team / holder shares in a fair and equitable manner with a continued vision of the long game
 
