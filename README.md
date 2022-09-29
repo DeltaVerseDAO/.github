@@ -7,9 +7,9 @@
 
 1) create <a href="https://github.com/thrustdrop">AIRDROP</a> system / Batch Send Signature Based Claiming system for smartBNB <a href="https://bscscan.com/token/0x969F60Bfe17962E0f061B434596545C7b6Cd6Fc4#balances">holder</a> rewards
 
-issues include a) signature based claiming b) bulk airdrop from one to many c) creation of wallet contract to hold sales fees prior to holder distribution
+issues include a) <a href="https://github.com/thrustdrop/erc20_airdrop">signature based claiming</a> b) <a href="https://github.com/thrustdrop/token-airdrop-contract">bulk airdrop from one to many</a> c) creation of <a href="https://github.com/DeltaVerseDAO/fractal-module-governor">governor</a> DAO wallet contract to hold sales fees prior to holder distribution
 
-2) create weighted voting system to allocate direction of the marketing and development funds accumulated by <a href="https://bscscan.com/token/0x969F60Bfe17962E0f061B434596545C7b6Cd6Fc4?a=0x34007ca21e12d1d31eaea468f8f1639e6465508b">PULSAR</a>
+2) create <a href="https://github.com/DeltaVerseDAO/deltaversecontroller">weighted voting system</a> to allocate direction of the marketing and development funds accumulated by <a href="https://bscscan.com/token/0x969F60Bfe17962E0f061B434596545C7b6Cd6Fc4?a=0x34007ca21e12d1d31eaea468f8f1639e6465508b">PULSAR</a>
 
 issues include a) ensure that the voting mechanism cannot be gamed b) provide weighted power based on allocation of <a href="https://bscscan.com/token/0x969F60Bfe17962E0f061B434596545C7b6Cd6Fc4#balances">team / holder</a> shares in a fair and equitable manner with a continued vision of the long game
 
