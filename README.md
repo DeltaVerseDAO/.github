@@ -30,4 +30,5 @@ Currently DeltaV THRUST has 3 liqudity pairs on the Binance Smart Chain namely;
 THRUST/BNB
 THRUST/ONE 
 THRUST/USDC
+THRST/ETH
 
