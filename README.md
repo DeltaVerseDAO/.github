@@ -13,7 +13,7 @@ issues include a) signature based claiming b) bulk airdrop from one to many c) c
 
 issues include a) ensure that the voting mechanism cannot be gamed b) provide weighted power based on allocation of <a href="https://bscscan.com/token/0x969F60Bfe17962E0f061B434596545C7b6Cd6Fc4#balances">team / holder</a> shares in a fair and equitable manner with a continued vision of the long game
 
-3) create weighted voting to allow the holders the choice of reciving 22.2% smartBNB rewards or allocating portions of the rewards to marketing and / or development
+3) create weighted voting to allow the holders the choice of recieving 22.2% smartBNB rewards or allocating portions of the rewards to marketing and / or development
 
 a) default setting will be to pay out to the holders the entire sum of the 22% sales fee. Market research has concluded that a holder centric smartchain BNB reflections token will be percieved as a <a href="https://bscscan.com/token/0x969F60Bfe17962E0f061B434596545C7b6Cd6Fc4#balances">holder</a> incentive. <a href="https://bscscan.com/token/0x969F60Bfe17962E0f061B434596545C7b6Cd6Fc4#balances">Holding</a> 22000 <a href="https://deltav.exchange">THRUST</a> is required to recieve rewards, vote, to recieve whitelist priveledges, to recieve airdrops and for other <a href="https://bscscan.com/token/0x969F60Bfe17962E0f061B434596545C7b6Cd6Fc4#balances">hodler</a> incentives.
 
