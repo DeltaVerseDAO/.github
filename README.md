@@ -32,10 +32,3 @@ THRUST/USDC
 THRUST/ONE 
 THRUST/ETH
 
-<iframe
-src="https://gateway.ipfscdn.io/ipfs/QmPaVYdGue8zEXFKqrtVHpvzBvufM1DYzw5n1of3KVPG88/signature-drop.html?contract=0x8f57d963986102Ea40001623498BC25Eca3EdEa4&chainId=137&theme=dark&primaryColor=green"
-width="600px"
-height="600px"
-style="max-width:100%;"
-frameborder="0"
-></iframe>
