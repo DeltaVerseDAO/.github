@@ -1,9 +1,15 @@
 # .github
-<a href="https://github.com/DeltaVerseDAO">DeltaVerse DAO</a> (c) <a href="https://deltav.exchange">DeltaV THRUST</a> purchased <a href="https://ipfs.io/ipfs/QmciuzxFqFMoSg4WbyujXFmjE3b1zis9g15sd8YfeV4UQA/">deltaverse.dao</a> deltavthrust.coin deltavthrust.wallet <a href="https://twitter.com/deltavexchange">deltavthrust.nft</a>
+<a href="https://github.com/DeltaVerseDAO">DeltaVerse DAO</a> (c) <a href="https://twitter.com/deltavexchange">DeltaV THRUST</a> purchased <a href="https://ipfs.io/ipfs/QmciuzxFqFMoSg4WbyujXFmjE3b1zis9g15sd8YfeV4UQA/">deltaverse.dao</a> deltavthrust.coin deltavthrust.wallet <a href="https://twitter.com/deltavexchange">deltavthrust.nft</a>
 
   These <a href="https://github.com/interplanetaryfilesystem">IPFS</a> <a href="https://unstoppabledomains.com/?ref=28cccef8f01d47c">unstoppable NFT domains</a> are a one time fee / hold forever. <a href="https://ipfs.io/ipfs/QmciuzxFqFMoSg4WbyujXFmjE3b1zis9g15sd8YfeV4UQA/">deltaverse.dao</a> becomes immortal with a proper setup on <a href="https://github.com/interplanetaryfilesystem">IPFS</a> and creates a <a href="https://github.com/DeltaVerseDAO/daoit">DAO template</a> that will stand the test of time. Ownership of these domains transitions <a href="https://twitter.com/deltavexchange">DeltaV THRUST</a> from web2 to web3. Pay once own forever. <a href="https://deltav.exchange">DeltaV THRUST</a> has become an immutable company. Further transitions to complete holder control and <a href="https://github.com/DeltaVerseDAO/fractal-module-governor">DAO management</a> are ongoing.
 
+
  # <a href="https://github.com/DeltaVerseDAO">DeltaVerse DAO</a> starmap to do
+ <a href="https://github.com/DAONOW">DAONOW</a>
+ <a href="https://github.com/dautonomous">daotonomous</a>
+ <a href="https://github.com/DAOcommunity">DAOcommunity</a>
+ <a href="https://github.com/lendao">lendao</a>
+ 
 
 1) create <a href="https://github.com/thrustdrop">AIRDROP</a> system / Batch Send Signature Based Claiming system for smartBNB <a href="https://bscscan.com/token/0x969F60Bfe17962E0f061B434596545C7b6Cd6Fc4#balances">holder</a> rewards
 
