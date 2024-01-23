@@ -39,5 +39,4 @@ THRUST/ETH
 
 web2 is being abandoned in favour of web3D on the <a href="https://github.com/INTERPLANETARYFILESYSTEM">Inter Planetary File System IPFS</a>
 communication is also moving to <a href="https://github.com/web3comm">web3comm</a><br />
-Barely into the second year..... launch stage 4....  THRUST autoreward utility ensures that THRUST holders get rewarded
-
+Barely into the second year..... launch stage 6....  <a href="https://deltavthrust.com">DeltaV THRUST</a> auto stake reward utility token
