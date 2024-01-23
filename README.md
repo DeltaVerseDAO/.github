@@ -35,8 +35,10 @@ Currently <a href="https://twitter.com/deltavexchange">DeltaV THRUST</a> has thr
 
 THRUST/BNB
 THRUST/USDC
+THRUST/BITCOIN
 THRUST/ETH
 
 web2 is being abandoned in favour of web3D on the <a href="https://github.com/INTERPLANETARYFILESYSTEM">Inter Planetary File System IPFS</a>
-communication is also moving to <a href="https://github.com/web3comm">web3comm</a><br />
+communication is also moving to <a href="https://github.com/web3comm">web3comm</a><br />. <a href="https://github.com/DeltaVML">Machine Learning Arficial Intellegence</a> no code low code have accelerated the <a href="https://github.com/deltav-deltaverse">DeltaVerse</a> timeline. Hold 22000 THRUST to become a THRUST participant where 22000 THRUST = 1 VOTE + 1 REWARD position. BROBOT AI has been included as an AI assistant on the <a href="https://deltavthrust.com">deltavthrust.com</a> mainpage. Marketing purhased 1,000,000 THRUST as one MAX transaction for the BROBOT THRUSTfund. The BROBOT THRUSTfund is a locked contract that will sell THRUST APY generated interest while holding the principal for the duration that BROBOT is useful as an augmentation to THRUST.
+
 Barely into the second year..... launch stage 6....  <a href="https://deltavthrust.com">DeltaV THRUST</a> auto stake reward utility token
