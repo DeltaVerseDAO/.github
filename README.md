@@ -42,4 +42,38 @@ web2 is being abandoned in favour of web3D on the <a href="https://github.com/IN
 communication is also moving to <a href="https://github.com/web3comm">web3comm</a><br />. <a href="https://github.com/DeltaVML">Machine Learning Arficial Intellegence</a> no code low code have accelerated the <a href="https://github.com/deltav-deltaverse">DeltaVerse</a> timeline. Hold 22000 THRUST to become a THRUST participant where 22000 THRUST = 1 VOTE + 1 REWARD position. BROBOT AI has been included as an AI assistant on the <a href="https://deltavthrust.com">deltavthrust.com</a> mainpage. Marketing purhased 1,000,000 THRUST as one MAX transaction for the BROBOT THRUSTfund. The BROBOT THRUSTfund is a locked contract that will sell THRUST APY generated interest while holding the principal for the duration that BROBOT is useful as an augmentation to THRUST.
 
 Barely into the second year..... launch stage 6....  <a href="https://deltavthrust.com">DeltaV THRUST</a> auto stake reward utility token
-<a href="https://deltavthrust.com">THRUST</a> because holders get rewarded
+<a href="https://deltavthrust.com">THRUST</a> because holders get rewarded<br />
+
+DeltaV THRUST has a collection of source organizations including<br />
+https://github.com/DAONOW<br />
+https://github.com/DAOcommunity<br />
+https://github.com/researchsolution<br />
+https://github.com/web3buysell<br />
+https://github.com/deltav-deltaverse<br />
+https://github.com/deltabridge<br />
+https://github.com/deltastorage<br />
+https://github.com/interplanetaryfilesystem<br />
+https://github.com/DeltaVerseDAO<br />
+https://github.com/DeltaVD<br />
+https://github.com/DeltaVThrust-NFT<br />
+https://github.com/deltamoonbeam<br />
+https://github.com/deltalgorand<br />
+https://github.com/DeltaLabratory<br />
+https://github.com/idmanagement<br />
+https://github.com/deltaloans<br />
+https://github.com/webthreejs<br />
+https://github.com/tethercoin<br />
+https://github.com/SaveGlaciers<br />
+https://github.com/parsec-wallet<br />
+https://github.com/thrustdrop<br />
+
+https://github.com/THCHAIN
+https://github.com/DeltaVML
+https://github.com/deltavchain
+https://github.com/THRUSTCHAIN
+https://github.com/IPFSdapps
+https://github.com/dairef
+https://github.com/web3comm
+https://github.com/metasnaps
+https://github.com/TNTbkc
+https://github.com/limitorder
