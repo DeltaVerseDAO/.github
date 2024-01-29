@@ -67,13 +67,13 @@ https://github.com/SaveGlaciers<br />
 https://github.com/parsec-wallet<br />
 https://github.com/thrustdrop<br />
 
-https://github.com/THCHAIN
-https://github.com/DeltaVML
-https://github.com/deltavchain
-https://github.com/THRUSTCHAIN
-https://github.com/IPFSdapps
-https://github.com/dairef
-https://github.com/web3comm
-https://github.com/metasnaps
-https://github.com/TNTbkc
-https://github.com/limitorder
+https://github.com/THCHAIN<br />
+https://github.com/DeltaVML<br />
+https://github.com/deltavchain<br />
+https://github.com/THRUSTCHAIN<br />
+https://github.com/IPFSdapps<br />
+https://github.com/dairef<br />
+https://github.com/web3comm<br />
+https://github.com/metasnaps<br />
+https://github.com/TNTbkc<br />
+https://github.com/limitorder<br />
