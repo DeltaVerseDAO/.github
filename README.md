@@ -21,7 +21,7 @@ issues include a) ensure that the voting mechanism cannot be gamed b) provide <a
 
 3) create weighted voting for holders control of treasury for community directed marketing and / or development initiatives
 
-a) DeltaV THRUST autostake rewards at 1000% APY. THRUST holder balance increases as a trade triggered reward.
+a) DeltaV THRUST autostake rewards at 100% APY. THRUST holder balance increases as a trade triggered reward.
 4) release next iteration of <a href="https://twitter.com/deltavexchange">dAPP</a>
 
 a) first release will be a landing page
@@ -47,6 +47,7 @@ Barely into the second year..... launch stage 6....  <a href="https://deltavthru
 DeltaV THRUST has a collection of source organizations including<br />
 https://github.com/DAONOW<br />
 https://github.com/DAOcommunity<br />
+https://github.com/dautonomous<br />
 https://github.com/researchsolution<br />
 https://github.com/web3buysell<br />
 https://github.com/deltav-deltaverse<br />
