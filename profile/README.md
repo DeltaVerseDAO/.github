@@ -60,3 +60,10 @@ deltaversecontroller (multisignature weighted voting), .github
 [github.com/DeltaVerseDAO](https://github.com/DeltaVerseDAO)
 
 </div>
+---
+
+## NeuralNode — The DeltaVerse Engine
+
+This organization is part of the [DeltaVerse](https://github.com/deltav-deltaverse) ecosystem. The core engine lives at **[NeuralNode](https://github.com/deltav-deltaverse/NeuralNode)** — 9 smart contracts, 44 tests, 12 frontend views, programmable encrypted vaults, and an agent system rooted in [NFT #1](https://opensea.io/item/polygon/0x024b464ec595f20040002237680026bf006e8f90/1).
+
+DeltaVerse (c) PYTHAI · [deltaverse.dao](https://unstoppabledomains.com/d/deltaverse.dao) · [deltavthrust.com](https://deltavthrust.com)
